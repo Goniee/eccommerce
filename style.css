@@ -1,0 +1,1048 @@
+.homepage {
+  position: relative;
+  width: 1440px;
+  height: 3559px;
+  background-color: var(--neutral-color00);
+  overflow: hidden;
+}
+
+.homepage .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1681px;
+  top: 0;
+  left: 0;
+}
+
+.homepage .header-desktop {
+  display: flex;
+  width: 1440px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 130px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.homepage .frame {
+  display: inline-flex;
+  align-items: center;
+  gap: 48px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .img {
+  position: relative;
+  width: 115px;
+  height: 40px;
+}
+
+.homepage .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 48px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.homepage .div {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-2 {
+  display: flex;
+  width: 280px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px 12px 16px;
+  position: relative;
+  background-color: var(--neutral-color00);
+  border-radius: 46px;
+}
+
+.homepage .img-2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.homepage .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color40);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .button-l {
+  height: 44px;
+  gap: 10px;
+  padding: 14px 28px 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-colordark-blue);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 57px;
+}
+
+.homepage .click-here {
+  margin-top: -3px;
+  margin-bottom: -1px;
+  color: var(--neutral-color00);
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.homepage .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 4px;
+  padding: 10px 8px 8px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-5 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+
+.homepage .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue-80);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.homepage .img-3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.homepage .frame-6 {
+  position: absolute;
+  width: 1440px;
+  height: 986px;
+  top: 695px;
+  left: 0;
+}
+
+.homepage .frame-7 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  position: absolute;
+  top: 60px;
+  left: 130px;
+}
+
+.homepage .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.homepage .lovely-naturalized {
+  position: relative;
+  width: fit-content;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.homepage .overlap-group {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 150px;
+  left: 130px;
+  border-radius: 12px;
+}
+
+.homepage .product-card {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px 8px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--neutral-color00);
+  border-radius: 12px;
+  box-shadow: 0px 4px 28px -2px #00000014;
+}
+
+.homepage .image-wrapper {
+  position: relative;
+  width: 264px;
+  height: 264px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.homepage .image {
+  position: absolute;
+  width: 264px;
+  height: 264px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.homepage .frame-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 8px 8px 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-8 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color100);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.homepage .frame-9 {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-10 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color60);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.homepage .element-VND {
+  position: relative;
+  width: 248px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color100);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.homepage .rectangle {
+  position: absolute;
+  width: 69px;
+  height: 31px;
+  top: 338px;
+  left: 203px;
+  background-color: #354991;
+  border-radius: 5px;
+}
+
+.homepage .text-wrapper-7 {
+  top: 346px;
+  position: absolute;
+  height: 20px;
+  left: 225px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .overlap-2 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 548px;
+  left: 130px;
+  border-radius: 12px;
+}
+
+.homepage .p {
+  position: relative;
+  width: 248px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color100);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.homepage .span {
+  letter-spacing: 0.1px;
+}
+
+.homepage .text-wrapper-8 {
+  letter-spacing: 0.04px;
+}
+
+.homepage .text-wrapper-9 {
+  letter-spacing: 0;
+}
+
+.homepage .image-2 {
+  top: 8px;
+  left: 8px;
+  position: absolute;
+  width: 264px;
+  height: 264px;
+  object-fit: cover;
+}
+
+.homepage .text-wrapper-10 {
+  top: 347px;
+  position: absolute;
+  height: 20px;
+  left: 225px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .overlap-3 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 150px;
+  left: 430px;
+  border-radius: 12px;
+}
+
+.homepage .overlap-group-2 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 548px;
+  left: 430px;
+  border-radius: 12px;
+}
+
+.homepage .overlap-4 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 150px;
+  left: 730px;
+  border-radius: 12px;
+}
+
+.homepage .overlap-5 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 548px;
+  left: 730px;
+  border-radius: 12px;
+}
+
+.homepage .overlap-6 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 150px;
+  left: 1030px;
+  border-radius: 12px;
+}
+
+.homepage .text-wrapper-11 {
+  top: 345px;
+  position: absolute;
+  height: 20px;
+  left: 225px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .overlap-7 {
+  position: absolute;
+  width: 280px;
+  height: 378px;
+  top: 548px;
+  left: 1030px;
+  border-radius: 12px;
+}
+
+.homepage .button-m {
+  all: unset;
+  box-sizing: border-box;
+  gap: 8px;
+  padding: 12px 28px;
+  position: absolute;
+  top: 78px;
+  left: 1159px;
+  border: 1.5px solid;
+  border-color: var(--primary-colordark-blue);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 57px;
+}
+
+.homepage .click-here-2 {
+  margin-top: -1.5px;
+  color: var(--primary-colordark-blue);
+  font-size: 14px;
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.homepage .herro-banner {
+  position: absolute;
+  width: 1440px;
+  height: 655px;
+  top: 83px;
+  left: 0;
+  border-radius: 0px 0px 40px 40px;
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    rgb(251.81, 238.23, 212.99) 6.17%,
+    rgb(251.81, 238.23, 212.99) 75.14%,
+    rgb(255, 230.83, 185.94) 100%
+  );
+}
+
+.homepage .overlap-8 {
+  position: absolute;
+  width: 1531px;
+  height: 1360px;
+  top: 84px;
+  left: -91px;
+}
+
+.homepage .overlap-9 {
+  position: absolute;
+  width: 1531px;
+  height: 1360px;
+  top: 0;
+  left: 0;
+}
+
+.homepage .rectangle-2 {
+  position: absolute;
+  width: 635px;
+  height: 635px;
+  top: 231px;
+  left: 734px;
+  background-color: var(--primary-colordark-blue);
+  border-radius: 99px;
+  transform: rotate(9.35deg);
+}
+
+.homepage .rectangle-3 {
+  position: absolute;
+  width: 635px;
+  height: 635px;
+  top: 201px;
+  left: 791px;
+  background-color: var(--secondary-colormon-yellow);
+  border-radius: 99px;
+  transform: rotate(25.23deg);
+}
+
+.homepage .rectangle-4 {
+  position: absolute;
+  width: 635px;
+  height: 635px;
+  top: 603px;
+  left: 123px;
+  background-color: var(--secondary-colormon-yellow);
+  border-radius: 99px;
+  transform: rotate(56.47deg);
+  opacity: 0.4;
+}
+
+.homepage .rectangle-5 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 66px;
+  left: 850px;
+  background-color: #f7dba7;
+  border-radius: 4px;
+  transform: rotate(20.79deg);
+}
+
+.homepage .rectangle-6 {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 120px;
+  left: 823px;
+  background-color: #f7dba7;
+  border-radius: 9px;
+  transform: rotate(-22.85deg);
+}
+
+.homepage .rectangle-7 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 129px;
+  left: 822px;
+  background-color: #002a48;
+  border-radius: 6px;
+  transform: rotate(-43deg);
+}
+
+.homepage .good-humored-woman {
+  position: absolute;
+  width: 910px;
+  height: 571px;
+  top: 0;
+  left: 621px;
+}
+
+.homepage .buying-your-dogs {
+  position: absolute;
+  width: 480px;
+  top: 251px;
+  left: 221px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color80);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.homepage .overlap-10 {
+  position: absolute;
+  width: 326px;
+  height: 89px;
+  top: 79px;
+  left: 203px;
+}
+
+.homepage .rectangle-8 {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 11px;
+  left: 11px;
+  background-color: var(--secondary-colormon-yellow);
+  border-radius: 20px;
+  transform: rotate(25.23deg);
+}
+
+.homepage .text-wrapper-12 {
+  position: absolute;
+  top: 16px;
+  left: 18px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue-80);
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 68px;
+  white-space: nowrap;
+}
+
+.homepage .get-your-dog {
+  position: absolute;
+  top: 167px;
+  left: 221px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue-80);
+  font-size: 46px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.homepage .click-here-wrapper {
+  display: flex;
+  width: 163px;
+  gap: 10px;
+  position: absolute;
+  top: 358px;
+  left: 402px;
+  background-color: var(--primary-colordark-blue);
+  border-radius: 57px;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px 10px;
+}
+
+.homepage .click-here-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color00);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.homepage .button-l-2 {
+  display: inline-flex;
+  gap: 8px;
+  position: absolute;
+  top: 358px;
+  left: 221px;
+  border-radius: 57px;
+  border: 1.5px solid;
+  border-color: var(--primary-colordark-blue);
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px 10px;
+}
+
+.homepage .click-here-4 {
+  margin-top: -1.5px;
+  color: var(--primary-colordark-blue);
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.homepage .rectangle-9 {
+  position: absolute;
+  width: 635px;
+  height: 635px;
+  top: -592px;
+  left: -230px;
+  background-color: var(--secondary-colormon-yellow);
+  border-radius: 99px;
+  transform: rotate(25.23deg);
+}
+
+.homepage .group {
+  position: absolute;
+  width: 22px;
+  height: 21px;
+  top: 36px;
+  left: 940px;
+}
+
+.homepage .banner {
+  position: absolute;
+  width: 1180px;
+  height: 378px;
+  top: 1681px;
+  left: 130px;
+  background-color: #003459;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.homepage .overlap-11 {
+  position: relative;
+  width: 1816px;
+  height: 1455px;
+  top: -360px;
+  left: -331px;
+}
+
+.homepage .overlap-12 {
+  position: absolute;
+  width: 978px;
+  height: 908px;
+  top: 0;
+  left: 837px;
+}
+
+.homepage .rectangle-10 {
+  position: absolute;
+  width: 782px;
+  height: 635px;
+  top: 136px;
+  left: 98px;
+  background-color: #fceed5;
+  border-radius: 99px;
+  transform: rotate(25.23deg);
+}
+
+.homepage .one-more-friend {
+  position: absolute;
+  top: 423px;
+  left: 186px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue);
+  font-size: 52px;
+  letter-spacing: 0;
+  line-height: 68px;
+  white-space: nowrap;
+}
+
+.homepage .thousands-more-fun {
+  position: absolute;
+  top: 493px;
+  left: 235px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--primary-colordark-blue);
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 54px;
+  white-space: nowrap;
+}
+
+.homepage .text-wrapper-13 {
+  position: absolute;
+  width: 394px;
+  top: 555px;
+  left: 195px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color80);
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.homepage .div-wrapper {
+  display: flex;
+  width: 163px;
+  gap: 10px;
+  position: absolute;
+  top: 634px;
+  left: 439px;
+  background-color: var(--primary-colordark-blue);
+  border-radius: 57px;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px 10px;
+}
+
+.homepage .button-l-3 {
+  display: inline-flex;
+  gap: 8px;
+  position: absolute;
+  top: 634px;
+  left: 258px;
+  border-radius: 57px;
+  border: 1.5px solid;
+  border-color: var(--primary-colordark-blue);
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px 10px;
+}
+
+.homepage .overlap-13 {
+  position: absolute;
+  width: 1067px;
+  height: 1067px;
+  top: 389px;
+  left: 0;
+}
+
+.homepage .rectangle-11 {
+  position: absolute;
+  width: 788px;
+  height: 788px;
+  top: 139px;
+  left: 139px;
+  background-color: var(--primary-colordark-blue-80);
+  border-radius: 99px;
+  transform: rotate(28.25deg);
+}
+
+.homepage .horizontal-shot {
+  position: absolute;
+  width: 513px;
+  height: 342px;
+  top: 7px;
+  left: 351px;
+  object-fit: cover;
+}
+
+.homepage .footer {
+  position: absolute;
+  width: 1440px;
+  height: 440px;
+  top: 3119px;
+  left: -1px;
+  background-color: transparent;
+  border-radius: 40px 40px 0px 0px;
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    rgb(251.81, 238.23, 212.99) 6.17%,
+    rgb(251.81, 238.23, 212.99) 75.14%,
+    rgb(255, 230.83, 185.94) 100%
+  );
+}
+
+.homepage .frame-11 {
+  position: absolute;
+  width: 1180px;
+  height: 40px;
+  top: 360px;
+  left: 130px;
+}
+
+.homepage .text-wrapper-14 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color60);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .terms-of-service {
+  position: absolute;
+  top: 9px;
+  left: 953px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color60);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.homepage .frame-12 {
+  position: absolute;
+  width: 115px;
+  height: 40px;
+  top: 0;
+  left: 533px;
+}
+
+.homepage .frame-13 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 0px 0px 40px;
+  position: absolute;
+  top: 80px;
+  left: 130px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--neutral-color20);
+}
+
+.homepage .frame-14 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 32px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--primary-colordark-blue);
+  border-radius: 16px;
+}
+
+.homepage .register-now-so-you {
+  position: relative;
+  width: 389px;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color00);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.homepage .frame-15 {
+  display: flex;
+  width: 707px;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 14px;
+}
+
+.homepage .input {
+  padding: 14px 28px;
+  position: relative;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: var(--neutral-color40);
+  flex: 1;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color40);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.homepage .button-l-4 {
+  display: flex;
+  width: 163px;
+  gap: 10px;
+  position: relative;
+  background-color: var(--primary-colordark-blue);
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 28px 10px;
+}
+
+.homepage .frame-16 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 562px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .frame-17 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 60px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.homepage .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Aksara Bali Galang-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--neutral-color100);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.homepage .frame-18 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
